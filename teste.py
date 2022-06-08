@@ -5,3 +5,6 @@ for x in range(1, 11):
 
 def soma (a, b):
     return a + b
+
+def mult(a, b):
+    return a * b
